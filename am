@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet " href="style.css">
+    <title>BLOG </title>
+</head>
+<body>
+    <h1>TECHNOLOGY TO BE STUPID</h1>
+    <div class="signin">
+        <button class="bt2">Sign in</button> 
+
+    <div class="logo">
+    <img src ="https://learn.zoner.com/wp-content/uploads/2022/12/patience.jpg?fidl=2019-06-mag-en" width="300" height="300" ait="GIRL WITH A JACKET">
+    </div>
+    <hr>
+    <div class="search">
+     <input type="text" name="search" id="search"> 
+     <button class="bt">Search</button> 
+    </div>   
+    <pstyle="color:blue;"><b>
+             We blog cause we have nothing better to do.
+        if being a comedian was my biggest dream,i've become an entire comedy show instead.
+        </b>
+    </p> 
+    <footer class="backgr">
+         <p class="text">
+
+           noobsquad@nitc
+          </p>
+    </footer>   
+</body>
+</html>
